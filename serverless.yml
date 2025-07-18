@@ -1,5 +1,5 @@
 org: gfc0r
-service: api-alumnos-rds
+service: api-alumnos-rds-v2
 
 provider:
   name: aws
